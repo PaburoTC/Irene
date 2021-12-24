@@ -15,7 +15,7 @@ const Login = props => {
 
     return(
         <Form.Group id="login-form">
-            <Form.Label>Aniversario</Form.Label>
+            <Form.Label>Día en el que empezó todo</Form.Label>
             <Form.Control type="date" placeholder="Aniversario" onChange={validate}/>
         </Form.Group>
     )

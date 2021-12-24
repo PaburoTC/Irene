@@ -9,3 +9,10 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+#login-form label {
+  font-size: large;
+  font-weight: bold;
+}
+#login-form input {
+  text-align: center;
+}
