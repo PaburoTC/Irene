@@ -4,7 +4,4 @@ export const loadState = () => {
     return serialState === null? undefined:JSON.parse(serialState);
 };
 
-export const saveState = (state) => {
-    localStorage.setItem('appState', JSON.stringify(state))
-    console.log("hELLO")
-};
+export const saveState = (state) => localStorage.setItem('appState', JSON.stringify(state));

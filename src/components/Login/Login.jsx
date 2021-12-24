@@ -7,7 +7,6 @@ import '../../styles/CSS/Login.css';
 const Login = props => {
 
     const validate = date =>{
-        console.log(process.env.REACT_APP_ANNIVERSARY)
         if (date.target.value === process.env.REACT_APP_ANNIVERSARY){
             props.setLogin(true)
         }
@@ -22,6 +21,7 @@ const Login = props => {
 }
 
 const mapStateToProps = state => ({state:state})
+
 const mapDispatchToProps = (dispatch) => ({
     setLogin: login => dispatch(setLogin(login))
 })
