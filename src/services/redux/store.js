@@ -1,9 +1,11 @@
 import { combineReducers, createStore } from "redux";
-import loginReducer from './login/reducer';
+import phaseReducer from './phase/reducer';
+import familyReducer from './family/reducer';
 import { loadState } from "../localStorage/localStorage";
 
 const reducer = combineReducers({
-    login: loginReducer
+    phase: phaseReducer,
+    family: familyReducer
 })
 
 const store = createStore(reducer, loadState(),
