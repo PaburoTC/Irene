@@ -1,6 +1,6 @@
 import { SET_PHASE } from "./actions";
 
-const initialState = 'login'
+const initialState = process.env.REACT_APP_LOGIN
 
 const reducer = (state = initialState, action) => {
     switch(action.type){

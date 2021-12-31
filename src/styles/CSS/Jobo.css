@@ -1,0 +1,37 @@
+#jobo-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#jobo-form label {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  width: 100%;
+  border-radius: 10px;
+}
+#jobo-form input {
+  text-align: center;
+}
+#jobo-form label, #jobo-form input {
+  animation: fadeIn 6s;
+  animation-delay: 8s;
+  animation-fill-mode: both;
+}
+#jobo-form h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 30px 0 30px 0;
+  border-radius: 10px;
+  animation: fadeOut 10s;
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+}
