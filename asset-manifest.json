@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Irene/static/css/main.72698aba.css",
-    "main.js": "/Irene/static/js/main.0308dfdf.js",
+    "main.css": "/Irene/static/css/main.1c2abd20.css",
+    "main.js": "/Irene/static/js/main.6424cfa6.js",
     "static/js/787.bea110f6.chunk.js": "/Irene/static/js/787.bea110f6.chunk.js",
+    "static/media/retiro.jpg": "/Irene/static/media/retiro.93950d0ae0b6dd138091.jpg",
+    "static/media/jobo.jpg": "/Irene/static/media/jobo.bdb0b2b580d5c22a24f8.jpg",
     "index.html": "/Irene/index.html",
-    "main.72698aba.css.map": "/Irene/static/css/main.72698aba.css.map",
-    "main.0308dfdf.js.map": "/Irene/static/js/main.0308dfdf.js.map",
+    "main.1c2abd20.css.map": "/Irene/static/css/main.1c2abd20.css.map",
+    "main.6424cfa6.js.map": "/Irene/static/js/main.6424cfa6.js.map",
     "787.bea110f6.chunk.js.map": "/Irene/static/js/787.bea110f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72698aba.css",
-    "static/js/main.0308dfdf.js"
+    "static/css/main.1c2abd20.css",
+    "static/js/main.6424cfa6.js"
   ]
 }
