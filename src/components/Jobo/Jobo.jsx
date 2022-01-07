@@ -7,7 +7,7 @@ import '../../styles/CSS/Jobo.css';
 
 const Jobo = props =>{
     const validate = date =>{
-        if (date.target.value === process.env.REACT_APP_ELEGANT) props.setPhase(process.env.REACT_APP_FINAL)
+        if (date.target.value === process.env.REACT_APP_ELEGANT) props.setPhase(process.env.REACT_APP_TULIPS)
     }
 
     return(
