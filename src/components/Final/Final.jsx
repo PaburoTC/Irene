@@ -4,10 +4,7 @@ import Button from "react-bootstrap/Button";
 import '../../styles/CSS/Final.css';
 
 const Final = () => {
-
-    
     return (
-        
         <Form id='final'>
             <h1>¡Muchísimas felicidades mi amor!</h1>
             <h2>Tras tanto desafio, es hora de desvelar tu regalo, espero que lo podamos disfrutar pronto.</h2>
