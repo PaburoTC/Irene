@@ -13,9 +13,9 @@ const Login = props => {
 
     return(
         <React.Fragment>
-            <img src={retiro}/>
+            <img src={retiro} alt="background"/>
             <Form.Label id="login_label">Día en el que empezó todo</Form.Label>
-            <Form.Control id="login_input" type="date" format="dd/mm/yyyy" placeholder="Aniversario" onChange={validate}/>
+            <Form.Control id="login_input" type="date" format="dd/mm/yyyy" onChange={validate}/>
         </React.Fragment>
     )
 }

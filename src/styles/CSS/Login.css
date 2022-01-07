@@ -36,6 +36,10 @@ body {
   overflow: hidden;
 }
 
+#root {
+  background-color: turquoise;
+}
+
 @keyframes move_left {
   0% {
     left: 0%;

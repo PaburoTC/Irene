@@ -37,7 +37,13 @@ img{
     z-index: -1;
 }
 
-body{overflow: hidden;}
+body{
+    overflow: hidden;
+    
+}
+#root{
+    background-color: turquoise;
+}
 
 @keyframes move_left {
     0%   { 
