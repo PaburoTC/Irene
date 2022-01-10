@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Irene/static/css/main.1c2abd20.css",
-    "main.js": "/Irene/static/js/main.6424cfa6.js",
+    "main.css": "/Irene/static/css/main.c8b1cb23.css",
+    "main.js": "/Irene/static/js/main.13e3f453.js",
     "static/js/787.bea110f6.chunk.js": "/Irene/static/js/787.bea110f6.chunk.js",
     "static/media/retiro.jpg": "/Irene/static/media/retiro.93950d0ae0b6dd138091.jpg",
+    "static/media/chess.jpg": "/Irene/static/media/chess.f1b3fb495c33164f298b.jpg",
+    "static/media/plants.jpg": "/Irene/static/media/plants.b7aa618f96de78491933.jpg",
     "static/media/jobo.jpg": "/Irene/static/media/jobo.bdb0b2b580d5c22a24f8.jpg",
     "index.html": "/Irene/index.html",
-    "main.1c2abd20.css.map": "/Irene/static/css/main.1c2abd20.css.map",
-    "main.6424cfa6.js.map": "/Irene/static/js/main.6424cfa6.js.map",
+    "main.c8b1cb23.css.map": "/Irene/static/css/main.c8b1cb23.css.map",
+    "main.13e3f453.js.map": "/Irene/static/js/main.13e3f453.js.map",
     "787.bea110f6.chunk.js.map": "/Irene/static/js/787.bea110f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c2abd20.css",
-    "static/js/main.6424cfa6.js"
+    "static/css/main.c8b1cb23.css",
+    "static/js/main.13e3f453.js"
   ]
 }
