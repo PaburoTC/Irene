@@ -14,8 +14,8 @@ const Tulips = props => {
             <img src={plants} alt="background"/>
             <div id="jobo-form">
                 <h1>Que ilusión me hizo ver a los tulipanes crecer, muchas gracias por cuidarlos </h1>
-                <Form.Label>Primera carta en la que menciono el nombre de nuestros tres hijitos (0xFFF)</Form.Label>
-                <Form.Control type="text" onChange={validate}/>
+                <Form.Label>Primera carta en la que menciono el nombre de nuestros tres hijitos</Form.Label>
+                <Form.Control type="text" placeholder="0xFFF" onChange={validate}/>
             </div>
         </React.Fragment>
     )
